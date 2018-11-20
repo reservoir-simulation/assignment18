@@ -9,5 +9,5 @@ Work through the [Project 2 CMG Tutorial](https://youtu.be/0wFy36pjdX8) and impo
 If you would like to check to see if your solution is correct, run the following command at the Terminal command line:
 
 ```bash
->nosetests
+>python test.py
 ```
